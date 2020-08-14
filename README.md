@@ -7,7 +7,7 @@ This was created as part of YouTube Video. Links below
 
 ### YouTube Video & Article
 
-[Get Started With NodeJS on YouTube](https://www.youtube.com/watch?v=hypzCBQOxns)
+[NodeJs Server Side Form Validation](https://www.youtube.com/watch?v=z8m_Vy_9FIs)
 
 [Read Article](https://raddy.co.uk/blog/node-js-form-validation-using-express-validator-and-ejs/)
 
